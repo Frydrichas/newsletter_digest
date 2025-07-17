@@ -1,6 +1,8 @@
 # newsletter_digest
 Questo notebook legge newsletter da Gmail via IMAP, le riassume con Gemini seguendo le tue istruzioni personalizzate, stampa il risultato e invia il riepilogo via mail.
 
+[Apri in Colab](https://colab.research.google.com/github/Frydrichas/newsletter_digest/blob/main/newsletter_digest.ipynb)
+
 ✅ Requisiti
 - API Key Gemini
 - Account Gmail con accesso IMAP attivo (usa App Password se hai 2FA)
